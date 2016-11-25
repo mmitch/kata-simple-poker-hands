@@ -16,7 +16,7 @@ innerhalb von 5 Karten.
 Eine Karte ist ein einfacher String, z.B. ``H10`` für die Herz-Zehn
 oder ``PA`` für das Pik-Ass.
 
-Ein Kartensatz besteht aus mehreren Karten, die durch Leerzeichen
+Eine Hand besteht aus mehreren Karten, die durch Leerzeichen
 getrennt sind:  ``K5 P1 H5 KK HD``
 
 Die Kartenwerte sind:
